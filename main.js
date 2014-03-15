@@ -35,7 +35,7 @@ define(function (/* require, exports, module */) {
             eol,
             bol
         );
-        EditorManager.getCurrentFullEditor().setCursorPos(bol);
+        EditorManager.getCurrentFullEditor().setCursorPos(eol);
     }
     
     // First, register a command - a UI-less object associating an id to a handler
