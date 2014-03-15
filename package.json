@@ -1,6 +1,6 @@
 {
   "name": "brackets.io.forbesmyester.join-lines",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Join Lines for Brackets",
   "author": "Matthew Forrester <matt@keyboardwritescode.com>",
   "dependencies": {
